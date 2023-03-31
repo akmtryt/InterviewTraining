@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+html {
+  font-size: 100%;
+  text-align: center;
+}
+
+.container {
+  background: #99caec;
+  height: 480px;
+  /* width: 50vw; */
+  
+}
+
+p {
+font-size: 16px;
+}
+
+.tmr {
+  font-size: 60px;
+  margin-top: 180px;
+  padding-top: 36px;
+}
+
+.title {
+  font-size: 36px;
+  margin-top: 48px;
+  margin-bottom: 28px;
+}
+
+.btn {
+  font-size: 16px;
+  background: #667070;
+  color: aliceblue;
+  border-radius: 4px;
+  padding: 0 16px;
+  margin-top: 48px;
+  height: 48px;
+  width: 160px;
+}
+
+.btn:hover {
+  background: #a7b3b3;
+}
